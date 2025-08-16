@@ -20,4 +20,4 @@ More than half of the complaints were submitted via Web platforms.
 📁 Project File
 
 Download the PBIX file directly from this repository.
-https://github.com/maulik-vyas/Risk-Analytics-Dashboard/blob/main/Risk%20Analytics%20Dashboard.pbix
+![Risk Analytics Dashboard.png](https://github.com/maulik-vyas/Risk-Analytics-Dashboard/blob/main/Risk%20Analytics%20Dashboard.png)
