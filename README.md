@@ -13,9 +13,9 @@ Power Query for data cleaning and transformation
 
 🧠 Insights Discovered
 
-Overall, the complaints have an upward trend over the period of 20 years.
-California received the highest number of complaints (12,107) whereas Wyoming received the lowest (67).
-More than half of the complaints were submitted via Web platforms.
+* Average PD and Default Rate is the highest for Grade G and the least for Grade A as expected.
+* PD and Interest Rate has the linear relationship so as the average interest rate increases, the probability of default also goes up.
+* Over time, the Average Default Rate has gone down whereas Average PD slightly went up.
 
 📁 Project File
 
