@@ -3,13 +3,13 @@ Credit Risk Dashboard in Power BI
 
 📊 Project Overview
 
-Developed a Credit Risk Snapshot to analyze key risk metrics like PD, LGD, and EAD, Delinquency Rate, and Expected Loss, uncovering the key patterns to reduce the overall credit risk.
+Developed a Risk Analytics Dashboard to analyze key risk metrics like PD, LGD, and EAD, Delinquency Rate, and Expected Loss, uncovering the key patterns to reduce the overall credit risk.
 
 🛠️ Tools Used
 
-Microsoft Power BI
-DAX for calculated measures
-Power Query for data cleaning and transformation
+* Microsoft Power BI
+* DAX for calculated measures
+* Power Query for data cleaning and transformation
 
 🧠 Insights Discovered
 
