@@ -20,4 +20,4 @@ Developed a Risk Analytics Dashboard to analyze key risk metrics like PD, LGD, a
 📁 Project File
 
 Download the PBIX file directly from this repository.
-![Risk Analytics Dashboard.png](https://github.com/maulik-vyas/Risk-Analytics-Dashboard/blob/main/Risk%20Analytics%20Dashboard.png)
+![Risk Analytics Dashboard.png](https://github.com/maulik-vyas/Risk-Analytics-Dashboard/blob/main/Credit%20Risk%20Snapshot.png)
